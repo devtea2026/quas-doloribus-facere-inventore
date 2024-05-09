@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quas-doloribus-facere-inventore",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -672,5 +672,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quas-doloribus-facere-inventore/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
